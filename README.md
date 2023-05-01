@@ -11,9 +11,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on school...
 - 🌱 I’m currently learning java and golang...
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder-player&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-player)](https://github.com/anuraghazra/github-readme-stats)
+#### 一个喜欢用Java写代码的哈哈哈
+```
+哇，珍德史泥鸭
+```
