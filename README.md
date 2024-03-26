@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=490&lines=Hi%EF%BC%81+this+is+Iron+Buster's+github+warehouse)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AC4F7&random=false&width=490&lines=Hi%EF%BC%81+this+is+Iron+Buster's+github)](https://git.io/typing-svg)
 
 <table>
 
