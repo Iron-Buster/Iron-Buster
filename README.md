@@ -10,9 +10,6 @@
 - 😃 py is best lang...
 
 <p>
-  <a href="https://codeforces.com/profile/ktcat">
-    <img src="https://img.shields.io/badge/ktcat-Codeforces-blue?style=for-the-badge&logo=codeforces">
-  </a>
   <a href="https://leetcode.cn/u/meilicat/">
     <img src="https://img.shields.io/badge/meilicat-Leetcode-green?style=for-the-badge&logo=leetcode">
   </a>
