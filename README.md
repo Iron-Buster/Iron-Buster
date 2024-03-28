@@ -18,7 +18,7 @@
 
 ## 🤾‍♂️ My Open Source Projects
 
-- [algorithm-study](https://github.com/Iron-Buster/algorithm-study) - 自己整理的Java算法模板库，包括但不限于基础算法和数据结构，仓库里还有leetcode、codeforces、蓝桥杯、互联网笔试题目的代码。leetcode部分题目有py和go的代码实现。
+- [algorithm-study](https://github.com/Iron-Buster/algorithm-study) - 自己整理的Java算法模板库，包括但不限于基础算法和数据结构，仓库里还有leetcode、codeforces、蓝桥杯、互联网笔试题目的代码。leetcode部分题目有py和go的代码实现。从这个项目中你能学到一些非常实用的算法模板，帮助你快速拿下算法题。
 - [dubbo-spring-boot-demo](https://github.com/Iron-Buster/dubbo-spring-boot-demo) - maybe not just demo😂。
 
 ## 🏆 Github Status
