@@ -21,10 +21,14 @@
 - [algorithm-study](https://github.com/Iron-Buster/algorithm-study) - 自己整理的Java算法模板库，包括但不限于基础算法和数据结构，仓库里还有leetcode、codeforces、蓝桥杯、互联网笔试题目的代码。leetcode部分题目有py和go的代码实现。从这个项目中你能学到一些非常实用的算法模板，帮助你快速拿下算法题。持续更新中...
 - [dubbo-spring-boot-demo](https://github.com/Iron-Buster/dubbo-spring-boot-demo) - maybe not just demo😂。这个项目主要是对dubbo的扩展机制进行实现，持续更新中...
 
+## 🍔 LeetCode Status
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/meilicat?theme=dark&font=JetBrains%20Mono&ext=heatmap&site=cn)
+
 ## 🏆 Github Status
 
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Iron-Buster&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Iron-Buster&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Buster&theme=transparent&layout=compact"> </div>
+<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Buster&theme=transparent&layout=compact"> </div>
 
 
