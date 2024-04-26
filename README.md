@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning [apache-dubbo](https://github.com/apache/dubbo) and [jyy's os](https://jyywiki.cn/OS/2024/)
 - 🍟 I’m reserching Data structures and Algorithms 🍉
 - 📫 How to reach me: meilicat@foxmail.com
-- 😃 py is best lang...
 - 🍔 This is my blog [meilicat](https://blog.meilicat.top/)
 
 <p>
@@ -33,4 +32,5 @@
 
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Buster&theme=transparent&layout=compact"> </div>
 
+</table>
 
