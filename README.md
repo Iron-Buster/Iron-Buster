@@ -5,7 +5,7 @@
 # 🍔Hello | Welcome to Iron-Buster's github👋
 
 - 🔭 I’m currently working on Company
-- 🌱 I’m currently learning [apache-dubbo](https://github.com/apache/dubbo)
+- 🌱 I’m currently learning [apache-dubbo](https://github.com/apache/dubbo) and [jyy's os](https://jyywiki.cn/OS/2024/)
 - 🍟 I’m reserching Data structures and Algorithms 🍉
 - 📫 How to reach me: meilicat@foxmail.com
 - 😃 py is best lang...
