@@ -26,9 +26,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/meilicat?theme=dark&font=JetBrains%20Mono&ext=heatmap&site=cn)
 
-## 🏆 Github Status
 
-<div> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Iron-Buster&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Buster&theme=transparent&layout=compact"> </div>
 
