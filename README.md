@@ -26,9 +26,5 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/meilicat?theme=dark&font=JetBrains%20Mono&ext=heatmap&site=cn)
 
-
-
-<div> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iron-Buster&theme=transparent&layout=compact"> </div>
-
 </table>
 
