@@ -1,4 +1,4 @@
-# 🍔Hi! 👋
+# 🍔Hi 👋
 - 🌱 I’m currently learning [apache-dubbo](https://github.com/apache/dubbo) and [jyy's os](https://jyywiki.cn/OS/2024/)
 - 🍟 I’m reserching Data structures and Algorithms 🍉
 - 🍔 This is my blog [meilicat](https://blog.meilicat.top/)
