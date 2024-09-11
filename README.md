@@ -10,9 +10,9 @@
 </p>
 
 ## 🤾‍♂️ My Open Source Projects
-- [algorithm-study](https://github.com/Iron-Buster/algorithm-study) - java算法模板库，常用的算法和数据结构模板。还有我分类整理好的LeetCode代码。持续更新中...
-- [java-work-space](https://github.com/Iron-Buster/java-work-space) - jvm、jit、jmm、bytecode、concurrecy相关。
-- [dubbo-spring-boot-demo](https://github.com/Iron-Buster/dubbo-spring-boot-demo) - 对dubbo的扩展机制进行实现。持续更新中...
+- [algorithm-study](https://github.com/Iron-Buster/algorithm-study) - 常用的算法和数据结构模板代码、按tag分类的力扣题解、互联网公司笔试题目。
+- [java-work-space](https://github.com/Iron-Buster/java-work-space) - jvm、jit、jmm、bytecode、concurrecy相关，例如invokedynamic的一些原理。
+- [dubbo-spring-boot-demo](https://github.com/Iron-Buster/dubbo-spring-boot-demo) - 对dubbo的扩展机制进行实现。
 - [GoByExample](https://github.com/Iron-Buster/GoByExample) - record GoByExample's case
 
 ## 🍔 LeetCode Status
