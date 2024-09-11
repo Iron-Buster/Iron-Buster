@@ -1,6 +1,7 @@
 # 🍔Hi，there!👋
-- 🌱 I’m currently learning [apache-dubbo](https://github.com/apache/dubbo) and [jyy's os](https://jyywiki.cn/OS/2024/)
-- 🍟 I’m reserching Data structures and Algorithms 🍉
+- 🌱 I’m a java backend developer 
+- 🍟 I'm keep learning about data structures and algorithms
+- 🌭 I usually use java and python to solve algorithm problems
 - 🍔 This is my blog [meilicat](https://blog.meilicat.top/)
 
 <p>
