@@ -1,8 +1,8 @@
 # 🍔Hi，there!👋
-- 🌱 I’m a java & go backend developer
+- 🌱 I’m a java backend developer
 - 🍟 I'm keep learning about data structures and algorithms
 - 🌭 I usually use java and python to solve algorithm problems
-- 🍔 This is my blog [meilicat](https://blog.meilicat.top/)
+- 🍔 my blog entrance -> [meilicat](https://blog.meilicat.top/)
 
 <p>
   <a href="https://leetcode.cn/u/meilicat/">
