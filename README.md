@@ -1,6 +1,6 @@
 # Hi there, I'm Iron-Buster! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative and efficient solutions. Below you'll find more about me and my work.
+Welcome to my GitHub profile! I'm a lazy developer with a love for playing crossfire and DSA. Below you'll find more about me and my work.
 
 ## 🚀 About Me
 
