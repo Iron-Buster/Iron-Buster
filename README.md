@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a lazy developer with a love for playing cross
 ## 🚀 About Me
 
 - 🔭 I’m currently working in web development and my mainstream development language is Java.
-- 🌱 I’m always learning and currently deepening my knowledge in DSA and JDK.
+- 🌱 I’m sometimes O.o? and currently deepening my knowledge in DSA and JDK.
 - 💬 Ask me about anything related to Java, DSA, or web development in general.
 - 📫 How to reach me: [1457480465@qq.com](1457480465@qq.com)
 - ⚡ Fun fact: I love playing crossfire and basketball in my free time.
